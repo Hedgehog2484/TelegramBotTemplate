@@ -2,7 +2,7 @@
 A simple working template for a telegram bots. Written on aiogram.
 ## How to run?
 To test how this template works:
-1) Clone repository and insert your bot token and id to the config.json
+1) Clone repository and insert your bot token and your telegram user id to the config.json
 2) Install all packages from pyproject.toml and run the project with poetry commands:
 ```
 cd TelegramBotTemplate
