@@ -9,4 +9,4 @@ cd TelegramBotTemplate
 poetry install
 poetry run python3 __main__.py
 ```
-3) You will see that bot started in terminal
+3) You will see in the terminal that the bot is running.
