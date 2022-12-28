@@ -1,0 +1,5 @@
+{
+  "bot_token": "",
+  "database_filepath": "data/database.db",
+  "admins_id": []
+}
